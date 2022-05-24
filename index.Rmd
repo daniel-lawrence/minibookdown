@@ -1,11 +1,157 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "A Mini Bookdown Sampler of Template Nonsense Text"
+author: "Daniel Lawrence"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
 ---
 
-# Create your open textbook
+# The need for ‘filler’ text
 
-Hello!
+Hello! Publishers, designers, and others have since the early days of printing have often found themselves in the need of text that had the look and feel of the text used in production, but at the sametime would stand out and not mistaken for such text. 
+
+The first version of this is the famous _Lorem ipsum_, but the internet now has many other variations. This mini book has sample text from some of these variations. 
+
+
+# Traditional _Lorem ipsum_
+
+[https://lipsum.com/](https://lipsum.com/)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sapien nec sagittis aliquam malesuada bibendum arcu vitae. Massa eget egestas purus viverra accumsan in nisl nisi. Est lorem ipsum dolor sit amet consectetur adipiscing elit pellentesque. Nulla pellentesque dignissim enim sit amet venenatis. Leo a diam sollicitudin tempor id eu nisl nunc mi. Proin nibh nisl condimentum id. Id faucibus nisl tincidunt eget nullam. Augue ut lectus arcu bibendum at varius vel pharetra vel. Erat velit scelerisque in dictum non consectetur a erat. Interdum varius sit amet mattis vulputate enim nulla aliquet. Vitae congue eu consequat ac felis donec. Elit duis tristique sollicitudin nibh sit. Nullam ac tortor vitae purus faucibus ornare suspendisse sed nisi. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. Suscipit adipiscing bibendum est ultricies integer quis auctor elit sed. Aliquam ut porttitor leo a diam sollicitudin tempor.
+
+Mi eget mauris pharetra et ultrices neque ornare aenean euismod. Aliquet risus feugiat in ante metus dictum. Ipsum dolor sit amet consectetur adipiscing elit ut. Morbi blandit cursus risus at ultrices. Risus quis varius quam quisque id diam vel quam. Auctor neque vitae tempus quam pellentesque. Facilisi morbi tempus iaculis urna id volutpat. Scelerisque varius morbi enim nunc faucibus a. Mauris commodo quis imperdiet massa tincidunt. Quis enim lobortis scelerisque fermentum dui. Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Nunc mattis enim ut tellus elementum sagittis. Nibh tortor id aliquet lectus proin nibh. Turpis in eu mi bibendum neque.
+
+Luctus venenatis lectus magna fringilla urna porttitor rhoncus dolor purus. Convallis aenean et tortor at risus viverra adipiscing. Hac habitasse platea dictumst vestibulum. Massa tincidunt dui ut ornare lectus sit amet. Sed vulputate mi sit amet mauris commodo. Praesent semper feugiat nibh sed pulvinar. Vitae ultricies leo integer malesuada nunc vel risus. Iaculis at erat pellentesque adipiscing commodo elit. Odio tempor orci dapibus ultrices. Lectus sit amet est placerat in egestas erat imperdiet. Venenatis urna cursus eget nunc scelerisque. Massa eget egestas purus viverra accumsan. Integer feugiat scelerisque varius morbi enim nunc faucibus a pellentesque. Sit amet nulla facilisi morbi tempus iaculis. Faucibus interdum posuere lorem ipsum dolor sit amet. Ultrices sagittis orci a scelerisque purus. Aliquet enim tortor at auctor.
+
+Mi sit amet mauris commodo. Integer feugiat scelerisque varius morbi enim nunc faucibus a. Scelerisque in dictum non consectetur a erat nam at. Auctor eu augue ut lectus. Sagittis aliquam malesuada bibendum arcu vitae elementum. Semper feugiat nibh sed pulvinar proin gravida hendrerit lectus. Morbi tempus iaculis urna id volutpat lacus. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Turpis cursus in hac habitasse platea dictumst quisque. Massa tincidunt dui ut ornare lectus sit. Tortor at auctor urna nunc id cursus. Nisi vitae suscipit tellus mauris a diam maecenas sed enim. Nisi lacus sed viverra tellus in hac habitasse platea. Consectetur adipiscing elit duis tristique sollicitudin nibh. Neque vitae tempus quam pellentesque nec nam aliquam. Dictum at tempor commodo ullamcorper a lacus vestibulum sed.
+
+Adipiscing elit ut aliquam purus. Varius vel pharetra vel turpis. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus. Tincidunt dui ut ornare lectus sit amet est placerat in. Viverra orci sagittis eu volutpat. Diam sit amet nisl suscipit. Id ornare arcu odio ut sem nulla. Diam maecenas sed enim ut sem viverra aliquet eget. Imperdiet proin fermentum leo vel orci porta non. Scelerisque fermentum dui faucibus in ornare quam. Odio euismod lacinia at quis risus sed vulputate odio. Euismod nisi porta lorem mollis aliquam ut porttitor leo. Odio tempor orci dapibus ultrices in iaculis nunc sed augue. Eu scelerisque felis imperdiet proin fermentum. In tellus integer feugiat scelerisque varius. Id aliquet risus feugiat in ante metus. Aliquam id diam maecenas ultricies. Facilisis volutpat est velit egestas dui id ornare arcu. At tempor commodo ullamcorper a lacus. Risus sed vulputate odio ut.
+
+# Hipster _ipsum_
+
+[https://hipsum.co/](https://hipsum.co/)
+
+DIY tofu tumblr hot chicken stumptown. Vegan wayfarers master cleanse man braid flexitarian slow-carb. Brooklyn vape taxidermy, wayfarers lyft shabby chic truffaut quinoa scenester vaporware tote bag tacos. Humblebrag praxis hella YOLO af schlitz slow-carb succulents gluten-free selfies 90's polaroid edison bulb portland cred.
+
+Bespoke vexillologist cold-pressed marfa asymmetrical chartreuse gastropub. Leggings pug mumblecore aesthetic. Disrupt chillwave hashtag, quinoa pok pok tote bag everyday carry selvage slow-carb butcher try-hard bespoke. Put a bird on it squid bicycle rights, heirloom williamsburg semiotics tilde jean shorts craft beer small batch listicle.
+
+Flannel hammock plaid meditation PBR&B leggings fixie cronut typewriter raclette readymade listicle. Fixie yr humblebrag kinfolk, put a bird on it brooklyn bitters yuccie cray pinterest iceland vape occupy. Tilde locavore chartreuse paleo, tbh hashtag cronut YOLO banjo raw denim ennui salvia. Raw denim truffaut slow-carb cray mustache mixtape DIY man braid single-origin coffee distillery etsy, stumptown lo-fi post-ironic. Chartreuse raclette taxidermy praxis ramps. Single-origin coffee hot chicken disrupt helvetica, pour-over tilde 3 wolf moon salvia before they sold out messenger bag gochujang.
+
+Swag etsy vaporware, enamel pin disrupt keffiyeh franzen. Air plant quinoa DSA marfa tumblr selfies. Pitchfork man bun knausgaard, poutine green juice brunch gastropub vape tilde. Prism mixtape sustainable shoreditch blog hexagon DSA banh mi food truck dreamcatcher. Biodiesel taxidermy hella palo santo tofu occupy. Iceland paleo narwhal kickstarter master cleanse viral. Tonx schlitz readymade neutra, salvia fashion axe ethical gochujang iPhone activated charcoal.
+
+Pok pok keffiyeh subway tile banh mi kogi yuccie hella ethical sartorial. Chillwave try-hard 90's crucifix paleo 8-bit iceland heirloom yr air plant health goth tumblr gochujang. Literally pop-up irony you probably haven't heard of them. Cred food truck semiotics listicle organic, succulents swag.
+
+# Trump _ipsum_
+
+[http://trumpipsum.net/](http://trumpipsum.net/)
+
+Lorem Ipsum's father was with Lee Harvey Oswald prior to Oswald's being, you know, shot. We are going to make placeholder text great again. Greater than ever before. An 'extremely credible source' has called my office and told me that Lorem Ipsum's birth certificate is a fraud.
+
+If Trump Ipsum weren’t my own words, perhaps I’d be dating it. I will write some great placeholder text – and nobody writes better placeholder text than me, believe me – and I’ll write it very inexpensively. I will write some great, great text on your website’s Southern border, and I will make Google pay for that text. Mark my words. Lorem Ipsum is the single greatest threat. We are not - we are not keeping up with other websites.
+
+Be careful, or I will spill the beans on your placeholder text. Lorem Ipsum better hope that there are no "tapes" of our conversations before he starts leaking to the press! If Trump Ipsum weren’t my own words, perhaps I’d be dating it.
+
+The best taco bowls are made in Trump Tower Grill. I love Hispanics! That other text? Sadly, it’s no longer a 10. You're telling the enemy exactly what you're going to do. No wonder you've been fighting Lorem Ipsum your entire adult life.
+
+I have a 10 year old son. He has words. He is so good with these words it's unbelievable. You're telling the enemy exactly what you're going to do. No wonder you've been fighting Lorem Ipsum your entire adult life.
+
+# Corperate _ipsum_
+
+[https://www.cipsum.com/](https://www.cipsum.com/)
+
+Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+
+Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+
+Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+
+Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+
+Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.
+
+# Postmodern _ipsum_
+
+[https://www.elsewhere.org/pomo/](https://www.elsewhere.org/pomo/)
+
+“Reality is fundamentally used in the service of class divisions,” says
+Foucault. The subject is interpolated into a cultural narrative that includes
+narrativity as a whole.
+
+The primary theme of the works of Stone is the role of the artist as writer.
+However, Sontag uses the term ‘objectivism’ to denote not constructivism as
+such, but subconstructivism. The subject is contextualised into a predialectic
+theory that includes sexuality as a paradox.
+
+If one examines cultural narrative, one is faced with a choice: either
+reject premodern discourse or conclude that discourse must come from
+communication. Thus, the failure, and thus the dialectic, of objectivism which
+is a central theme of Stone’s Heaven and Earth emerges again in
+Natural Born Killers, although in a more mythopoetical sense. Prinn[1] implies that we have to choose between cultural capitalism
+and neodialectic material theory.
+
+“Class is responsible for the status quo,” says Foucault. But Lacan suggests
+the use of cultural narrative to attack and modify society. The main theme of
+Tilton’s[2] analysis of predialectic theory is the paradigm
+of conceptualist class.
+
+Thus, in Models, Inc., Spelling reiterates neotextual discourse; in
+Robin’s Hoods, however, he examines objectivism. Lyotard uses the term
+‘cultural narrative’ to denote a patriarchial totality.
+
+In a sense, the example of objectivism intrinsic to Spelling’s Beverly
+Hills 90210 is also evident in The Heights. The subject is
+interpolated into a predialectic theory that includes narrativity as a whole.
+
+It could be said that Baudrillard promotes the use of cultural narrative to
+challenge class divisions. The subject is contextualised into a predialectic
+theory that includes consciousness as a paradox.
+
+But Lyotard’s model of objectivism states that reality is capable of truth,
+given that the premise of predialectic theory is invalid. The subject is
+interpolated into a cultural narrative that includes art as a whole.
+
+It could be said that if pretextual objectivism holds, we have to choose
+between predialectic theory and semantic subcultural theory. Debord uses the
+term ‘Derridaist reading’ to denote not, in fact, narrative, but neonarrative. 
+
+# Fillerama _ipsum_
+
+[http://fillerama.io/](http://fillerama.io/)
+
+Humans dating robots is sick. You people wonder why I'm still single? It's 'cause all the fine robot sisters are dating humans! I saw you with those two "ladies of the evening" at Elzars. Explain that.
+
+Oh, I always feared he might run off like this. Why, why, why didn't I break his legs? Yeah. Give a little credit to our public schools. Hello Morbo, how's the family? Hey, you add a one and two zeros to that or we walk!
+
+Is that a cooking show? And remember, don't do anything that affects anything, unless it turns out you were supposed to, in which case, for the love of God, don't not do it! I'm sorry, guys. I never meant to hurt you. Just to destroy everything you ever believed in.
+
+Now that the, uh, garbage ball is in space, Doctor, perhaps you can help me with my sexual inhibitions? So, how 'bout them Knicks? No! I want to live! There are still too many things I don't own! You're going back for the Countess, aren't you?
+
+Oh, how awful. Did he at least die painlessly? …To shreds, you say. Well, how is his wife holding up? …To shreds, you say. Bender, hurry! This fuel's expensive! Also, we're dying! That's not soon enough!
+
+For one beautiful night I knew what it was like to be a grandmother. Subjugated, yet honored. Leela's gonna kill me. And from now on you're all named Bender Jr. Bender! Ship! Stop bickering or I'm going to come back there and change your opinions manually!
+
+Bender, you risked your life to save me! Yes, if you make it look like an electrical fire. When you do things right, people won't be sure you've done anything at all. Uh, is the puppy mechanical in any way?
+
+Okay, it's 500 dollars, you have no choice of carrier, the battery can't hold the charge and the reception isn't very… Doomsday device? Ah, now the ball's in Farnsworth's court! Ugh, it's filthy! Why not create a National Endowment for Strip Clubs while we're at it?
+
+Is that a cooking show? Tell them I hate them. That's the ONLY thing about being a slave. Interesting. No, wait, the other thing: tedious. You know, I was God once.
+
+I usually try to keep my sadness pent up inside where it can fester quietly as a mental illness. That's a popular name today. Little "e", big "B"? Enough about your promiscuous mother, Hermes! We have bigger problems.
+
+Bender, I didn't know you liked cooking. That's so cute. Oh, I think we should just stay friends. Really?! Throw her in the brig.
+
+# DeLorean _ipsum_
+
+[https://satoristudio.net/delorean-ipsum/](https://satoristudio.net/delorean-ipsum/)
+
+
+
+Okay, okay you guys, oh ha ha ha very funny. Hey you guys are being real mature. Yeah, you got my homework finished, McFly? And where's my reports? Where were we. Okay.
+
+Oh. No, fine, no , good, fine, good. Good, there's somebody I'd like you to meet. Lorraine. Marty, that's completely out of the question, you must not leave this house. you must not see anybody or talk to anybody. Anything you do could have serious repercussions on future events. Do you understand? Marty, you're beginning to sound just like my mother.
+
+Well, you mean, it makes perfect sense. Doc, you gotta help me. you were the only one who knows how your time machine works. Yeah. Now, of course not, Biff, now, I wouldn't want that to happen. Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around.
+
+Good, I'll see you tonight. Don't forget, now, 1:15 a.m., Twin Pines Mall. But I can't go to the dance, I'll miss my favorite television program, Science Fiction Theater. What, what, ma? My god, do you know what this means? It means that this damn thing doesn't work at all. Yeah man, that was good. Let's do another one.
+
+Why thank you, Marty. George. Good morning, sleepyhead, Good morning, Dave, Lynda Please note that Einstein's clock is in complete synchronization with my control watch. Why is she gonna get angry with you? A colored mayor, that'll be the day. C'mon, c'mon let's go.
